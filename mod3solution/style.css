@@ -1,0 +1,17 @@
+
+.container{
+    height:55px;
+    margin-left:0px;
+}
+.text-warning{
+    margin-left:15px;
+    font-size:45px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row{
+    margin-bottom:25px;
+}
+
+.menu p{
+    font-size:25px;
+}
